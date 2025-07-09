@@ -1,5 +1,6 @@
 name: design_system_package
-description: "A new Flutter package project."
+description: >
+  Sistema de diseño modular y escalable en Flutter, basado en la metodología Atomic Design: átomos, moléculas, organismos y plantillas.
 version: 0.0.1
 homepage: https://github.com/JamzDeveloper/pragma-flutter-package-atomic-design
 repository: https://github.com/JamzDeveloper/pragma-flutter-package-atomic-design
