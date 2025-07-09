@@ -1,7 +1,8 @@
 name: design_system_package
 description: "A new Flutter package project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/JamzDeveloper/pragma-flutter-package-atomic-design
+repository: https://github.com/JamzDeveloper/pragma-flutter-package-atomic-design
 
 environment:
   sdk: ^3.7.0
